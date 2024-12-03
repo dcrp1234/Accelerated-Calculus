@@ -19,15 +19,15 @@ To view and run the notebooks locally:
 
 Clone the repository:
 
-> git clone https://github.com/your-username/Accelerated_Calculus_Project.git
+    git clone https://github.com/dcrp1234/Accelerated_Calculus_Project.git
 
 Install the necessary Python libraries:
 
-> pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Open the notebooks in Jupyter or any compatible platform:
 
-> jupyter notebook
+    jupyter notebook
 
 Alternatively, you can use the Colab links to open and run the notebooks directly in Google Colab.
 Project Highlights
