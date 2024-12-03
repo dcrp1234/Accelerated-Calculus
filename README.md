@@ -23,7 +23,7 @@ Clone the repository:
 
 Install the necessary Python libraries:
 
-    pip install -r requirements.txt
+    pip install -r requirement.txt
 
 Open the notebooks in Jupyter or any compatible platform:
 
