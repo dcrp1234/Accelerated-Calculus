@@ -13,4 +13,25 @@ This repository contains two projects demonstrating advanced calculus concepts u
 
 These notebooks use Python libraries for numerical computation and plotting to provide an intuitive and interactive approach to understanding calculus. 
 
+### Getting Started
 
+To view and run the notebooks locally:
+
+Clone the repository:
+
+> git clone https://github.com/your-username/Accelerated_Calculus_Project.git
+
+Install the necessary Python libraries:
+
+> pip install -r requirements.txt
+
+Open the notebooks in Jupyter or any compatible platform:
+
+> jupyter notebook
+
+Alternatively, you can use the Colab links to open and run the notebooks directly in Google Colab.
+Project Highlights
+
+    Interactive demonstrations of calculus concepts.
+    Real-world applications and problem-solving approaches.
+    Visualization of mathematical results.
