@@ -1,0 +1,10 @@
+notebook
+jupyterlab
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+ipywidgets
+jupyter_contrib_nbextensions
+nbconvert
